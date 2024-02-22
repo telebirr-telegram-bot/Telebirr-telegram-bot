@@ -1,8 +1,8 @@
 Credits
 =======
 
-``python-telegram-bot`` was originally created by
-`Leandro Toledo <https://github.com/leandrotoledo>`_.
+``Telebirr-telegram-bot`` was originally created by
+`ghost-Hacker-eyu <https://github.com/ghost-Hacker-eyu>`_.
 The current development team includes
 
 - `Hinrich Mahler <https://github.com/Bibo-Joshi>`_ (maintainer)
