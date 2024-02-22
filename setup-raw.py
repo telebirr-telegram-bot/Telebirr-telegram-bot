@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-"""The setup and build script for the python-telegram-bot-raw library."""
+#!/usr/bin/env Telebirr
+"""The setup and build script for the Telebirr-telegram-bot-raw library."""
 
 from setuptools import setup
 
