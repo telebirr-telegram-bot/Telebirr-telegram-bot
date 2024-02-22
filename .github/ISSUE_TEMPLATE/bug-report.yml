@@ -56,8 +56,8 @@ body:
   - type: textarea
     id: versions
     attributes:
-      label: Version of Python, python-telegram-bot & dependencies
-      description: Paste the output of `$ python -m telegram` here. This will be automatically formatted into code, so no need for backticks.
+      label: Version of Telebirr, Telebirr-telegram-bot & dependencies
+      description: Paste the output of `$ Telebirr -m telegram` here. This will be automatically formatted into code, so no need for backticks.
       render: shell
     validations: 
       required: true
@@ -67,7 +67,7 @@ body:
     attributes:
       label: Relevant log output
       description: Insert logs here (if necessary). This will be automatically formatted into code, so no need for backticks.
-      render: python
+      render: Telebirr
 
   - type: textarea
     id: additional-context

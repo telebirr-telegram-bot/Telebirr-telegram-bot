@@ -9,9 +9,9 @@ body:
       value: |
         Hey there, you have a question? We are happy to answer. Please make sure no similar question was opened already.
 
-        To make it easier for us to help you, please read this [article](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Ask-Right).
+        To make it easier for us to help you, please read this [article](https://github.com/Telebirr-telegram-bot/Telebirr-telegram-bot/wiki/Ask-Right).
 
-        Please mind that there is also a users' [Telegram group](https://t.me/pythontelegrambotgroup) for questions about the library. Questions asked there might be answered quicker than here. Moreover, [GitHub Discussions](https://github.com/python-telegram-bot/python-telegram-bot/discussions) offer a slightly better format to discuss usage questions.
+        Please mind that there is also a users' [Telegram group](https://t.me/+Hfg0wmxzw_w1NGI0) for questions about the library. Questions asked there might be answered quicker than here. Moreover, [GitHub Discussions](https://github.com/telebirr-telegram-bot/Telebirr-telegram-bot/discussions) offer a slightly better format to discuss usage questions.
 
   - type: textarea
     id: issue-faced
@@ -32,7 +32,7 @@ body:
             foo = bar()
           ...
         telegram.error.BadRequest: Traceback not found
-      render: python
+      render: Telebirr
         
   - type: textarea
     id: related-code
@@ -45,7 +45,7 @@ body:
         )
 
         logger = logging.getLogger(__name__)
-      render: python
+      render: Telebirr
 
   - type: markdown
     attributes:
@@ -61,8 +61,8 @@ body:
   - type: textarea
     id: versions
     attributes:
-      label: Version of Python, python-telegram-bot & dependencies
-      description: Paste the output of `$ python -m telegram` here. This will be automatically formatted into code, so no need for backticks.
+      label: Version of Telebirr, Telebirr-telegram-bot & dependencies
+      description: Paste the output of `$ Telebirr -m telegram` here. This will be automatically formatted into code, so no need for backticks.
       render: shell
     validations: 
       required: true
