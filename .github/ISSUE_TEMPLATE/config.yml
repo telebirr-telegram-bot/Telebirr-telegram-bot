@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Telegram Group
-    url: https://telegram.me/pythontelegrambotgroup
+    url: https://t.me/+Hfg0wmxzw_w1NGI0
     about: Questions asked on the group usually get answered faster.
   - name: GitHub Discussions
-    url: https://github.com/python-telegram-bot/python-telegram-bot/discussions
+    url: https://github.com/telebirr-telegram-bot/Telebirr-telegram-bot/discussions
     about: For getting answers to usage on GitHub, Discussions is even better than this bug tracker :)
